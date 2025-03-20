@@ -65,7 +65,7 @@ The project was tested on images ranging from 16×16 to 16384×16384 pixels. Bel
 - **CUDA Version:** 12.6  
 - **Compiler:** nvcc (for CUDA parts) and MSVC (for C++ host code)  
 - **Libraries:** OpenCV (for image I/O)
-- **CPU** AMD Ryzen 5 5600x
-- **GPU** NVIDIA GeForce RTX 3070
+- **CPU:** AMD Ryzen 5 5600x
+- **GPU:** NVIDIA GeForce RTX 3070
 
 ---
